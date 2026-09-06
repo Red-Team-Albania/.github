@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/rta-logo.png" alt="Red Team Albania" width="440">
+  <img src="https://raw.githubusercontent.com/Red-Team-Albania/.github/main/assets/rta-logo.png" alt="Red Team Albania" width="440">
 </p>
 
 <h3 align="center">Offensive security services for organizations across the Western Balkans.</h3>
